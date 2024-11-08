@@ -34,6 +34,8 @@
 
 User guide generator for Rust crates
 
+## Project status
+
 **WORK IN PROGRESS**
 
 ## License
