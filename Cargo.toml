@@ -1,0 +1,13 @@
+[package]
+name = "guide"
+version = "0.0.0"
+authors = ["Dariusz Depta <depta@engos.de>"]
+description = "User guide generator for Rust crates"
+documentation = "https://docs.rs/guide"
+repository = "https://github.com/EngosSoftware/guide.git"
+keywords = ["user", "guide", "generator"]
+categories = ["command-line-utilities"]
+license = "MIT OR Apache-2.0"
+edition = "2021"
+
+[dependencies]
